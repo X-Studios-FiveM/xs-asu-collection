@@ -1,0 +1,210 @@
+[
+  {
+    "DlcCollectionName": "mp_m_xs_asu",
+    "PedName": "mp_m_freemode_01",
+    "ComponentVariations": [
+      {
+        "DrawableName": "Legs",
+        "TextureName": "mp_m_freemode_01_mp_m_xsasu^lowr_diff_000_a_whi",
+        "NameHash": "CLO_DCT_LEGS_0_0_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 202,
+        "TextureId": 0,
+        "RelativeCollectionDrawableId": 0
+      },
+      {
+        "DrawableName": "Legs",
+        "TextureName": "mp_m_freemode_01_mp_m_xsasu^lowr_diff_000_b_whi",
+        "NameHash": "CLO_DCT_LEGS_0_1_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 202,
+        "TextureId": 1,
+        "RelativeCollectionDrawableId": 0
+      },
+      {
+        "DrawableName": "Legs",
+        "TextureName": "mp_m_freemode_01_mp_m_xsasu^lowr_diff_000_c_whi",
+        "NameHash": "CLO_DCT_LEGS_0_2_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 202,
+        "TextureId": 2,
+        "RelativeCollectionDrawableId": 0
+      },
+      {
+        "DrawableName": "Legs",
+        "TextureName": "mp_m_freemode_01_mp_m_xsasu^lowr_diff_000_d_whi",
+        "NameHash": "CLO_DCT_LEGS_0_3_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 202,
+        "TextureId": 3,
+        "RelativeCollectionDrawableId": 0
+      },
+      {
+        "DrawableName": "Legs",
+        "TextureName": "mp_m_freemode_01_mp_m_xsasu^lowr_diff_000_e_whi",
+        "NameHash": "CLO_DCT_LEGS_0_4_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 202,
+        "TextureId": 4,
+        "RelativeCollectionDrawableId": 0
+      },
+      {
+        "DrawableName": "Legs",
+        "TextureName": "mp_m_freemode_01_mp_m_xsasu^lowr_diff_000_f_whi",
+        "NameHash": "CLO_DCT_LEGS_0_5_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 202,
+        "TextureId": 5,
+        "RelativeCollectionDrawableId": 0
+      },
+      {
+        "DrawableName": "Legs",
+        "TextureName": "mp_m_freemode_01_mp_m_xsasu^lowr_diff_000_g_whi",
+        "NameHash": "CLO_DCT_LEGS_0_6_M",
+        "ComponentType": "PV_COMP_LOWR",
+        "ComponentId": 4,
+        "DrawableId": 202,
+        "TextureId": 6,
+        "RelativeCollectionDrawableId": 0
+      },
+      {
+        "DrawableName": "Top",
+        "TextureName": "mp_m_freemode_01_mp_m_xsnb_male_part_c^jbib_diff_016_a_uni",
+        "NameHash": "CLO_DCT_TOP_0_0_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 544,
+        "TextureId": 0,
+        "RelativeCollectionDrawableId": 0
+      },
+      {
+        "DrawableName": "Top",
+        "TextureName": "mp_m_freemode_01_mp_m_xsnb_male_part_c^jbib_diff_016_b_uni",
+        "NameHash": "CLO_DCT_TOP_0_1_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 544,
+        "TextureId": 1,
+        "RelativeCollectionDrawableId": 0
+      },
+      {
+        "DrawableName": "Top",
+        "TextureName": "mp_m_freemode_01_mp_m_xsnb_male_part_c^jbib_diff_016_c_uni",
+        "NameHash": "CLO_DCT_TOP_0_2_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 544,
+        "TextureId": 2,
+        "RelativeCollectionDrawableId": 0
+      },
+      {
+        "DrawableName": "Top",
+        "TextureName": "mp_m_freemode_01_mp_m_xsnb_male_part_c^jbib_diff_016_d_uni",
+        "NameHash": "CLO_DCT_TOP_0_3_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 544,
+        "TextureId": 3,
+        "RelativeCollectionDrawableId": 0
+      },
+      {
+        "DrawableName": "Top",
+        "TextureName": "mp_m_freemode_01_mp_m_xsnb_male_part_c^jbib_diff_016_e_uni",
+        "NameHash": "CLO_DCT_TOP_0_4_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 544,
+        "TextureId": 4,
+        "RelativeCollectionDrawableId": 0
+      },
+      {
+        "DrawableName": "Top",
+        "TextureName": "mp_m_freemode_01_mp_m_xsnb_male_part_c^jbib_diff_016_f_uni",
+        "NameHash": "CLO_DCT_TOP_0_5_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 544,
+        "TextureId": 5,
+        "RelativeCollectionDrawableId": 0
+      },
+      {
+        "DrawableName": "Top",
+        "TextureName": "mp_m_freemode_01_mp_m_xsnb_male_part_c^jbib_diff_016_g_uni",
+        "NameHash": "CLO_DCT_TOP_0_6_M",
+        "ComponentType": "PV_COMP_JBIB",
+        "ComponentId": 11,
+        "DrawableId": 544,
+        "TextureId": 6,
+        "RelativeCollectionDrawableId": 0
+      }
+    ],
+    "Props": [
+      {
+        "DrawableName": "PropHead",
+        "TextureName": "mp_m_freemode_01_p_mp_m_xsnb_male_part_c^p_head_diff_000_d",
+        "NameHash": "CLO_DCT_PROPHEAD_0_0_M",
+        "AnchorPoint": "ANCHOR_HEAD",
+        "ComponentId": 0,
+        "DrawableId": 221,
+        "TextureId": 0,
+        "RelativeCollectionDrawableId": 0
+      },
+      {
+        "DrawableName": "PropHead",
+        "TextureName": "mp_m_freemode_01_p_mp_m_xsnb_male_part_c^p_head_diff_000_e",
+        "NameHash": "CLO_DCT_PROPHEAD_0_1_M",
+        "AnchorPoint": "ANCHOR_HEAD",
+        "ComponentId": 0,
+        "DrawableId": 221,
+        "TextureId": 1,
+        "RelativeCollectionDrawableId": 0
+      },
+      {
+        "DrawableName": "PropHead",
+        "TextureName": "mp_m_freemode_01_p_mp_m_xsnb_male_part_c^p_head_diff_000_f",
+        "NameHash": "CLO_DCT_PROPHEAD_0_2_M",
+        "AnchorPoint": "ANCHOR_HEAD",
+        "ComponentId": 0,
+        "DrawableId": 221,
+        "TextureId": 2,
+        "RelativeCollectionDrawableId": 0
+      },
+      {
+        "DrawableName": "PropHead",
+        "TextureName": "mp_m_freemode_01_p_mp_m_xsnb_male_part_c^p_head_diff_000_g",
+        "NameHash": "CLO_DCT_PROPHEAD_0_3_M",
+        "AnchorPoint": "ANCHOR_HEAD",
+        "ComponentId": 0,
+        "DrawableId": 221,
+        "TextureId": 3,
+        "RelativeCollectionDrawableId": 0
+      },
+      {
+        "DrawableName": "PropHead",
+        "TextureName": "mp_m_freemode_01_p_mp_m_xsnb_male_part_c^p_head_diff_000_e",
+        "NameHash": "CLO_DCT_PROPHEAD_0_4_M",
+        "AnchorPoint": "ANCHOR_HEAD",
+        "ComponentId": 0,
+        "DrawableId": 221,
+        "TextureId": 4,
+        "RelativeCollectionDrawableId": 0
+      },
+      {
+        "DrawableName": "PropHead",
+        "TextureName": "mp_m_freemode_01_p_mp_m_xsnb_male_part_c^p_head_diff_000_f",
+        "NameHash": "CLO_DCT_PROPHEAD_0_5_M",
+        "AnchorPoint": "ANCHOR_HEAD",
+        "ComponentId": 0,
+        "DrawableId": 221,
+        "TextureId": 5,
+        "RelativeCollectionDrawableId": 0
+      }
+    ]
+  }
+]
